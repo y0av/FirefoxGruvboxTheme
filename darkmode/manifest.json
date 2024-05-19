@@ -1,0 +1,33 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "gruvbox darkmode",
+  "theme": {
+    "images": {
+      "additional_backgrounds": [
+        "images/bg-001-9c6d74e14860e77ee6f8f43e824bff25.svg"
+      ]
+    },
+    "properties": {
+      "additional_backgrounds_alignment": [
+        "top"
+      ],
+      "additional_backgrounds_tiling": [
+        "repeat"
+      ]
+    },
+    "colors": {
+      "toolbar": "rgb(40, 40, 40)",
+      "toolbar_text": "rgb(69, 133, 136)",
+      "frame": "rgb(60, 56, 54)",
+      "tab_background_text": "rgb(177, 98, 134)",
+      "toolbar_field": "rgb(80, 73, 69)",
+      "toolbar_field_text": "rgb(249, 245, 215)",
+      "tab_line": "rgb(152, 151, 26)",
+      "popup": "rgb(40, 40, 40)",
+      "popup_text": "rgb(104, 157, 106)",
+      "icons": "rgb(215, 153, 33)",
+      "tab_loading": "rgb(152, 151, 26)"
+    }
+  }
+}
